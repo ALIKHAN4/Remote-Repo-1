@@ -3,3 +3,5 @@ this is the second file
 "This line will be applying by using git pull command directly"
 
 this line is changed in local repository
+
+my name is ali khan I am not pathan
